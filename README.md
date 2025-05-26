@@ -27,6 +27,6 @@ Recentemente, eu e meus 3 sócios, fundamos uma software house chamada Cactus So
 ## Onde trabalho
 🚀 **MW Soluções - Coordenador de DEV Ops do EasyMon e EasyBI**
 
-🌵 **Sócio da Cactus Soft**
+🌵 **Cactus Soft - Sócio Fundador**
 
 
