@@ -20,12 +20,13 @@
 
 ## Bio
 
-💻 Tenho 26 anos, coordeno uma equipe de 8 desenvolvedores, construindo soluções de monitoramento, análise de dados e business inteligence para provedores de internet na MW Soluções e recentemente criei junto a meus parceiros uma software house chamada CactuSoft. 
+💻 Tenho 26 anos, coordeno uma equipe de 8 desenvolvedores, construindo soluções de monitoramento, análise de dados e business inteligence para provedores de internet na MW Soluções. 
+Recentemente, eu e meus 3 sócios, fundamos uma software house chamada Cactus Soft. 
 
 
 ## Onde trabalho
 🚀 **MW Soluções - Coordenador de DEV Ops do EasyMon e EasyBI**
 
-🌵 **Sócio da CactuSoft**
+🌵 **Sócio da Cactus Soft**
 
 
